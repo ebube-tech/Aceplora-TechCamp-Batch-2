@@ -12,4 +12,4 @@ Students:
 8. Adasi Eric
 9. Adasi Elvis
 
-![Class Photo](https://ibb.co/12F9BSc)
+<img src="https://ibb.co/12F9BSc"/>
